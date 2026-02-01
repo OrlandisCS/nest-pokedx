@@ -1,0 +1,9 @@
+html,
+body {
+  padding: 20px;
+  background: #000;
+}
+h1 {
+  font-size: 20px;
+  color: #cb7e7e;
+}
