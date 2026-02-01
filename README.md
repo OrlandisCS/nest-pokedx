@@ -16,7 +16,12 @@
    `pnpm i -g @nestjs/cli`
 4. Levantar BBDD
    `docker-compose up -d`
-5. Reconstruir BBDD con datos
+5. Clonar el archivo **.env.template** y renombrar a **.env**
+
+6. Rellenar variables definidas en el archivo
+   `.env`
+
+7. Reconstruir BBDD con datos
    `{{api}}/seed`
 
 ## Stack
